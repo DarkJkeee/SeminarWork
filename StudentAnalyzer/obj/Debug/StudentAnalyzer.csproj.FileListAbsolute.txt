@@ -1,0 +1,12 @@
+C:\Users\1\source\repos\SR4-1\StudentAnalyzer\obj\Debug\StudentAnalyzer.csprojAssemblyReference.cache
+C:\Users\1\source\repos\SR4-1\StudentAnalyzer\obj\Debug\StudentAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\SR4-1\StudentAnalyzer\bin\Debug\StudentAnalyzer.exe.config
+C:\Users\1\source\repos\SR4-1\StudentAnalyzer\bin\Debug\StudentAnalyzer.exe
+C:\Users\1\source\repos\SR4-1\StudentAnalyzer\bin\Debug\StudentAnalyzer.pdb
+C:\Users\1\source\repos\SR4-1\StudentAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\source\repos\SR4-1\StudentAnalyzer\bin\Debug\StudentLibrary.dll
+C:\Users\1\source\repos\SR4-1\StudentAnalyzer\bin\Debug\StudentLibrary.pdb
+C:\Users\1\source\repos\SR4-1\StudentAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\source\repos\SR4-1\StudentAnalyzer\obj\Debug\StudentAnalyzer.csproj.CopyComplete
+C:\Users\1\source\repos\SR4-1\StudentAnalyzer\obj\Debug\StudentAnalyzer.exe
+C:\Users\1\source\repos\SR4-1\StudentAnalyzer\obj\Debug\StudentAnalyzer.pdb

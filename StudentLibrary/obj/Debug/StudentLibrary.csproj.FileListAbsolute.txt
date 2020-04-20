@@ -1,0 +1,6 @@
+C:\Users\1\source\repos\SR4-1\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\1\source\repos\SR4-1\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\1\source\repos\SR4-1\StudentLibrary\obj\Debug\StudentLibrary.csprojAssemblyReference.cache
+C:\Users\1\source\repos\SR4-1\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\SR4-1\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\1\source\repos\SR4-1\StudentLibrary\obj\Debug\StudentLibrary.pdb
